@@ -1,5 +1,22 @@
-# POKERED
-#End Points
+# POKERED SOCIAL NETWORK OF POKEMONS
+
+#### Table of Contents
+1. [Introduction](#introduction)
+2. [Intructions](#intructions)
+3. [End Points](#end-points)
+
+
+## Introduction
+Second project developed by Gabriela Benalcázar and Cristian Calderón as part of the bootcamp at Ironhack, where we had to work on the server side and use at least one API.
+
+## Intructions
+1. On the main page you can search for a pokemon, no registration is required.
+
+2. You can register if you want to have a profile. With the registration you can sign up for events that are in the events section, by attending you will get the Pokémon that are given in that event.
+
+3. When you get a certain amount of pokemon the ADMIN can change your ROLE to TRAINER you can access your own Gym and have the ability to create events. 
+
+## End Points
 
 | METHOD   |      URL      |  DESCRIPTION|
 |----------|:-------------:|------:      |
